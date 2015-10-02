@@ -1,4 +1,4 @@
-package stencyl.ext.polydes.example;
+package com.polydes.example;
 
 import javax.swing.JCheckBox;
 import javax.swing.JComboBox;

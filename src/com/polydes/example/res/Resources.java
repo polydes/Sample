@@ -1,4 +1,4 @@
-package stencyl.ext.polydes.example.res;
+package com.polydes.example.res;
 
 import java.io.InputStream;
 import java.net.URL;
