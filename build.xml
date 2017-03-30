@@ -4,7 +4,7 @@
 +==========================================================================
 -->
 
-<project name="stencyl" basedir="." default="dist">
+<project name="polydes/sample" basedir="." default="dist">
 	
 	<property name="pkg" value="com/polydes/example" />
 	<property name="main" value="com.polydes.example.SampleExtension" />
